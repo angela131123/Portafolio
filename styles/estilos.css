@@ -14,3 +14,35 @@
 .body{
     background-color: #EED9C4;
 }
+.cajap{
+background-color: #EED9C4;
+border: 2px solid #C19A6B; 
+padding: 15px;
+margin: 10px auto;
+width: 80%;
+box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+.info {
+text-align: center;
+color: #8B4513;
+margin-bottom: 20px;
+border-bottom: 20px;
+}
+
+.tabla {
+width: 100%;
+border-collapse: collapse;
+}
+
+.tabla td {
+padding: 10px;
+border-bottom: 1px solid #C19A6B;
+}
+
+.tabla td:first-child {
+font-weight: bold;
+color: #6B4F36;
+}
+.texto{
+    color: #C19A6B;
+}
