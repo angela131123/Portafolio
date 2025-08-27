@@ -1,0 +1,16 @@
+.header{
+    color:#8B4513 ;
+    font-family: 'Merriweather', serif;
+    font-size: 60px;
+    text-align: center;
+}
+.imagen{
+    display: block;
+    margin: 0 auto;
+    height: 98px;
+    border-radius: 15px;
+    margin-top: 1 auto;
+}
+.body{
+    background-color: #EED9C4;
+}
