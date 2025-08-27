@@ -1,13 +1,13 @@
 .header{
     color:#8B4513 ;
     font-family: 'Merriweather', serif;
-    font-size: 60px;
+    font-size: 70px;
     text-align: center;
 }
 .imagen{
     display: block;
     margin: 0 auto;
-    height: 98px;
+    height: 208px;
     border-radius: 15px;
     margin-top: 1 auto;
 }
@@ -37,6 +37,8 @@ border-collapse: collapse;
 .tabla td {
 padding: 10px;
 border-bottom: 1px solid #C19A6B;
+text-align: justify;
+font-size: 18px;
 }
 
 .tabla td:first-child {
@@ -44,5 +46,6 @@ font-weight: bold;
 color: #6B4F36;
 }
 .texto{
-    color: #C19A6B;
+    font-size: 18px;
+    text-align: justify;
 }
